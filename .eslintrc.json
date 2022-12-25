@@ -17,8 +17,6 @@
     "camelcase": "error",
     "spaced-comment": "error",
     "quotes": ["error", "single"],
-    "no-duplicate-imports": "error",
-    "assertionStyle": "warn",
-    "objectLiteralTypeAssertions": "allow-as-parameter"
+    "no-duplicate-imports": "error"
   }
 }
