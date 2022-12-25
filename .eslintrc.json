@@ -18,7 +18,7 @@
     "spaced-comment": "error",
     "quotes": ["error", "single"],
     "no-duplicate-imports": "error",
-    "assertionStyle": "as",
+    "assertionStyle": "warn",
     "objectLiteralTypeAssertions": "allow-as-parameter"
   }
 }
